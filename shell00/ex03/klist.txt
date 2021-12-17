@@ -1,0 +1,5 @@
+Credentials cache: API:F2565A81-EB29-4BF6-9CF8-07CCD0BA1980
+        Principal: mjlem@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 17:49:58 2021  Aug  3 03:48:58 2021  krbtgt/1337.MA@1337.MA
